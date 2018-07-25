@@ -10,4 +10,7 @@ rice
 chicken added
 
 
+beans 
+pizza
+
 thanks:)
